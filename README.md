@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @akkelasc
+- 👋 Moro, mä oon @akkelasc
 - 👀 Mä koodaan fivem alustalle juttuja
-- 🌱 opettelen tällä hetkel paremmaks
+- 🌱 opettelen tällä hetkel paremmaks fivem coodaamises
 - 📫 kysyttyvää ? laita yv dc akkezt
-
+- 🚔 korjailen myös scriptei
 
