@@ -3,4 +3,4 @@
 - 🌱 opettelen tällä hetkel paremmaks fivem coodaamises
 - 📫 kysyttyvää ? laita yv dc akkezt
 - 🚔 korjailen myös scriptei
-
+- 😍 in chatgpt we trust
